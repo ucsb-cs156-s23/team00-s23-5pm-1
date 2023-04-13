@@ -7,7 +7,7 @@ export default function NevadaCityPage() {
                 <h1>Nevada City, CA</h1>
                 <p>
                     <b>Nevada City, California</b> is a small town about an hour and a half south of lake Tahoe.
-                    It features Beautiful mountains, great breakfast joints and thee sparkling Yuba river.
+                    It features Beautiful mountains, great breakfast joints and the vibrant Yuba river stocked full of mountain trout.
                 </p>
                 <p>Added by James E.</p>
             </div>
