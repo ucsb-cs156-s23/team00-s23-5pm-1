@@ -18,6 +18,7 @@ function App() {
         <Route exact path="/towns/LosAlamos" element={<LosAlamosPage />} />
         <Route exact path="/towns/ArroyoGrande" element={<ArroyoGrandePage />} />
         <Route exact path="/towns/Kansas" element={<Kansas />} />
+        <Route exact path="/towns/SantaCruz" element={<SantaCruz />} />
       </Routes>
     </BrowserRouter>
   );
