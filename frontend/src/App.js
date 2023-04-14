@@ -8,9 +8,7 @@ import NevadaCityPage from "main/pages/NevadaCityPage";
 import LosAngelesPage from "main/pages/LosAngelesPage";
 import MiamiPage from "main/pages/MiamiPage"
 import SantaCruzPage from "main/pages/SantaCruzPage";
-
 import "bootstrap/dist/css/bootstrap.css";
-import SantaCruzPage from "main/pages/SantaCruz";
 
 
 function App() {
