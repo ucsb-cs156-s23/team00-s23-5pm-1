@@ -22,7 +22,7 @@ function App() {
         <Route exact path="/towns/AvilaBeach" element={<AvilaBeachPage />} />
         <Route exact path="/towns/LosAlamos" element={<LosAlamosPage />} />
         <Route exact path="/towns/ArroyoGrande" element={<ArroyoGrandePage />} />
-        <Route exact path="/towns/Kansas" element={<KansaPage />} />
+        <Route exact path="/towns/Kansas" element={<KansasPage />} />
         <Route exact path="/towns/SantaCruz" element={<SantaCruzPage />} />
         <Route exact path="/towns/Tampa" element={<TampaPage />} />
         <Route exact path="/towns/NevadaCity" element={<NevadaCityPage />} />
